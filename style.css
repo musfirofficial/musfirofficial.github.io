@@ -1,0 +1,30 @@
+body {
+    background-image: url(bg.jpg) ;
+    background-repeat: no-repeat;
+    
+}
+h2 {
+    color: red;
+    font-family: 'Oswald', sans-serif;
+    font-size: 40px;
+    text-align: center;   
+
+}
+
+#about {
+    background-color: #ed0e0e;
+    color: #eee9e9;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 20px;
+}
+
+#list {
+    color: #eee9e9;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 20px;
+}
+
+hr.divider {
+    border-top: 8px solid #bbb;
+    border-radius: 5px;
+}
